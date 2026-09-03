@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hpaids86-bot/Python-Code/tree/master/0062-unique-paths) |
+| [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -24,4 +25,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hpaids86-bot/Python-Code/tree/master/0013-roman-to-integer) |
+| [0087-scramble-string](https://github.com/hpaids86-bot/Python-Code/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
